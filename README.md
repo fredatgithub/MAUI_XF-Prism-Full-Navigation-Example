@@ -1,5 +1,6 @@
-# Xamarin Forms 5.0.0.2083 with Prism 8.1.97 FullNavigation Example
-A full example of prism's navigation with Xamarin Forms
+## Xamarin Forms 5.0.0.2545 --> Prism.DryIoc.Forms 8.1.97
+
+## MAUI .NET7 --> Prism.DryIoc.Maui 8.1.273-pre
 
 Provide examples with prism's navigation:
 
